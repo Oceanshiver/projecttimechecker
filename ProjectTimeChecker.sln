@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectTimeChecker", "ProjectTimeChecker\ProjectTimeChecker.csproj", "{534729D1-0201-4FFB-9635-8664F2D7EB79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectTimeCheckerDBA", "ProjectTimeCheckerDBA\ProjectTimeCheckerDBA.csproj", "{9487B8BA-A872-4B6C-BC57-BD7EEE66DEA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{534729D1-0201-4FFB-9635-8664F2D7EB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{534729D1-0201-4FFB-9635-8664F2D7EB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{534729D1-0201-4FFB-9635-8664F2D7EB79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9487B8BA-A872-4B6C-BC57-BD7EEE66DEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9487B8BA-A872-4B6C-BC57-BD7EEE66DEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9487B8BA-A872-4B6C-BC57-BD7EEE66DEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9487B8BA-A872-4B6C-BC57-BD7EEE66DEA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
