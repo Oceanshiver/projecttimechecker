@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/ProjectTimeChecker/bin/Debug/netcoreapp3.1
+/ProjectTimeChecker/obj
+/ProjectTimeCheckerDBA/bin/Debug/netcoreapp3.1
+/ProjectTimeCheckerDBA/obj
